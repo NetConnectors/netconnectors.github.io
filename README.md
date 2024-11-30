@@ -1,2 +1,2 @@
-# netconnectors.github.io
-https://netconnectors.github.io
+# NetConnectors
+2 humanoids doing something (probably scripting/programming)
